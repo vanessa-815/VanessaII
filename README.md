@@ -11,7 +11,7 @@
 <body>
     <header>
         <h1>Mi Nueva Página</h1>
-        <img src="paginaHTML-main/logo.jpeg" alt="logo">
+        <img src="paginaHTML-main/logo.jpeg" alt="">
         <nav>
             <ul>
                 <li><a href="#">Inicio</a></li>
