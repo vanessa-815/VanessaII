@@ -1,1 +1,59 @@
 # VanessaII
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dulce Deseo</title>
+    <link rel="stylesheet" href="style.css">
+    <!-- Enlace al archivo externo de CSS -->
+</head>
+<body>
+    <header>
+        <h1>Mi Nueva Página</h1>
+        <img src="paginaHTML-main/logo.jpeg" alt="logo">
+        <nav>
+            <ul>
+                <li><a href="#">Inicio</a></li>
+                <li><a href="#">Nuestro contenido</a></li>
+                <li><a href="#">Misón</a></li>
+                <li><a href="#">Visión</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <article>
+            <h2>Nuestro contenido</h2>
+            <p>Nuestra empresa se dedica a la produccion y venta de ricos chocolates y diferentes combinaciones ded estos que cada vez los vuelven mas esquisitos y deleitan tu paladar y nos llevan a momentos especiales gracias a su sabor y calidad</p>
+        </article>
+
+        <article>
+            <h2>Misión</h2>
+            <p>Dulce Deseo nos dedicamos a deleitar a nuestros clientes con experiencias únicas y deliciosas a través de la creación artesanal de chocolates de alta calidad. Nuestra misión es ser reconocidos como líderes en el arte de la chocolatería, ofreciendo productos exquisitos que cautiven los sentidos y creen momentos especiales para quienes disfrutan de nuestros chocolates.
+                Nos comprometemos a seleccionar cuidadosamente los ingredientes más finos, para garantizar la frescura, la calidad y el sabor inigualable de cada pieza de chocolate que producimos. Buscamos superar las expectativas de nuestros clientes, proporcionando productos que no solo satisfagan sus antojos de dulces, sino que también inspiren alegría y deleite.
+                Dulce Deseo nuestra misión va más allá de la creación de chocolates excepcionales; buscamos ser la elección preferida de aquellos que valoran la calidad, la pasión y la atención al detalle en cada bocado. Creemos que cada chocolate cuenta una historia, y nos enorgullece ser parte de los momentos especiales de la vida de nuestros clientes.
+                </p>
+            <h2>Visión</h2>
+            <p>Dulce Deseo aspiramos a ser reconocidos a nivel mundial como la marca líder en chocolates de alta calidad, representando la excelencia en el arte de la chocolatería.
+                Buscamos expandir nuestra presencia global, llevando el encanto único de nuestros chocolates artesanales a nuevos mercados y consolidando nuestra posición como referente en innovación y calidad.
+                Nos esforzamos por mantenernos en las tendencias de la industria, introduciendo continuamente nuevas creaciones que cautiven a los amantes del chocolate y establezcan estándares más altos en el mundo de la chocolatería.
+                Dulce Deseo nuestra visión es trascender como una marca que brinda calidad y amor en un solo producto, queremos ser parte integral de momentos especiales, regalando placer y creando recuerdos inolvidables a través de la magia de nuestros chocolates artesanales."
+                </p>
+        </article>
+    </main>
+
+    <aside>
+        <h2> Cotactanos</h2>
+        <ul>
+            <li>
+                <p>315151</p>
+            </li>
+        </ul>
+        <p>Gracias por Visitar Nuestra Pagina Web</p>
+    </aside>
+    <footer>
+        <p>&copy; Vane 2023 Mi nueva paginaTT. Todos los derechos reservados. | <a href="#">Política de privacidad</a></p>
+    </footer>
+</body>
+</html>
